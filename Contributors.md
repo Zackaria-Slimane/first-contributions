@@ -35,6 +35,7 @@
 - [Ashutosh Deshpande](https://github.com/DaemonStark)
 - [Danushka Malinga Ranasinghe](https://github.com/danushka9999)
 - [Arjun R](https://github.com/arjun-prs)
+- [Zackaria Slimane](https://github.com/Zackaria-Slimane)
 - [Muhammad Azhar](https://github.com/git-azhar)
 - [Zackaria Slimane](https://github.com/Zackaria-Slimane)
 - [Kunal Vaidya](https://github.com/Ikunalv)
